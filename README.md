@@ -14,6 +14,6 @@ Jeu de données d’articles avec le lien pour télécharger la photo et une des
 - Réaliser une première étude de faisabilité d'un moteur de classification d'articles basé sur une image et une description pour l'automatisation de l'attribution de la catégorie de l'article.
 - Analyser le jeu de données en réalisant un prétraitement des images et des descriptions des produits, une réduction de dimension, puis un clustering. Les résultats du clustering seront présentés sous la forme d’une représentation en deux dimensions à déterminer, qui ’illustrera le fait que les caractéristiques extraites permettent de regrouper des produits de même catégorie.
 
-## Résultats
+## Livrables
 - P6_Notebook.ipynb : notebook contenant les fonctions permettant le prétraitement des données textes et images ainsi que les résultats du clustering (en y incluant des représentations graphiques au besoin).
 - P6_Presentation.pdf : support de présentation qui présente la démarche et les résultats du clustering.
